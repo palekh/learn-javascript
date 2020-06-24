@@ -1,0 +1,28 @@
+{
+  "name": "@palekh/learn-javascript",
+  "version": "0.0.1",
+  "description": "Learning JavaScript step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palekh/learn-javascript.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Igor Golopolosov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palekh/learn-javascript/issues"
+  },
+  "homepage": "https://github.com/palekh/learn-javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
